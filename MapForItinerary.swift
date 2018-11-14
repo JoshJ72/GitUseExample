@@ -7,3 +7,10 @@
 //
 
 import Foundation
+
+
+class MapforItinerary{
+    func sayHello() {
+        print("Hello from MapForItinerary")
+    }
+}
